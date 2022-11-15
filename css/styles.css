@@ -100,12 +100,12 @@ hr {
 }
 
 .intro {
-    width: 30%;
-    margin: auto;
+    width: auto;
+    margin: 50px auto;
 }
 
 .skill-row {
-    width: 50%;
+    width: auto;
     margin: 50px auto;
     line-height: 2;
 }
@@ -119,7 +119,7 @@ hr {
 }
 
 .contact-me {
-    width: 50%;
+    width: auto;
     margin: 50px auto;
 }
 
